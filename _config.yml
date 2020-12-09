@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Rohan Yadav"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  avatar           : "rohan.jpeg"
+  bio              : "Ph.D Research Fellow"
+  location         : "Center for Artificial Intelligence Research"
+  employer         : "University of Agder"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=pLL-eokAAAAJ&hl=en"
+  email            : "rohan.k.yadav@uia.no"
+  researchgate     : "https://www.researchgate.net/profile/Rohan_Yadav4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rohanky"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1485-0439"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "iamrohanydv"
   vine             :
   weibo            :
   xing             :
