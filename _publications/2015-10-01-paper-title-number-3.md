@@ -1,6 +1,6 @@
 ---
 title: "Human-Level Interpretable Learning for Aspect-Based Sentiment Analysis."
-collection: publications
+collection: Conference
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Interpretability in Aspect-Based Sentiment Analysis using Tsetlin Machine.'
 date: 2021
