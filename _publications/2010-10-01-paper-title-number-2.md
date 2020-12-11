@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
+title: "Indoor Space Classification Using Cascaded LSTM."
+collection: Conference
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This work classifies the space in Indoor Enviromnment iwth RSSI and Geomagnetic Field using cascaded LSTM.'
+excerpt: 'Indoor Space Classification Using Cascaded LSTM.'
+date: 2020-09-09
+venue: 'ICIEA'
+paperurl: 'https://ieeexplore.ieee.org/document/9248347'
+citation: 'Rohan Kumar Yadav, Bimal Bhattarai, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). &quot;Indoor Space Classification Using Cascaded LSTM.&quot; <i>ICIEA</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9248347)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Rohan Kumar Yadav, Bimal Bhattarai, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). "Indoor Space Classification Using Cascaded LSTM." <i>ICIEA</i>..
