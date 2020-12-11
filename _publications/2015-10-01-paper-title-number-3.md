@@ -6,9 +6,9 @@ excerpt: 'Interpretability in Aspect-Based Sentiment Analysis using Tsetlin Mach
 date: 2021-02-02
 venue: 'AAAI'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). &quot;Human-Level Interpretable Learning for Aspect-Based Sentiment Analysis.&quot; <i>AAAI</i>. 1(3).'
+citation: 'Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). &quot;Human-Level Interpretable Learning for Aspect-Based Sentiment Analysis.&quot; <i>AAAI</i>.'
 ---
 
 [Download paper here](NA)
 
-Recommended citation: Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). "Paper Title Number 3." <i>AAAI</i>. 1(3).
+Recommended citation: Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). "Paper Title Number 3." <i>AAAI</i>..
