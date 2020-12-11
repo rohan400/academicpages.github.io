@@ -6,9 +6,8 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2020
 venue: 'AAAI'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Rohan Kumar Yadav, You. (2021). &quot;Human-Level Interpretable Learning for Aspect-Based Sentiment Analysis 3.&quot; <i>AAAI</i>. 1(3).'
+citation: 'Rohan Kumar Yadav, You. (2021). &quot;Human-Level Interpretable Learning for Aspect-Based Sentiment Analysis.&quot; <i>AAAI</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
