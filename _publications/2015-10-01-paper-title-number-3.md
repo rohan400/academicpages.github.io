@@ -1,7 +1,7 @@
 ---
 title: "Human-Level Interpretable Learning for Aspect-Based Sentiment Analysis."
 collection: Conference
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publications/2015-10-01-paper-title-number-3
 excerpt: 'Interpretability in Aspect-Based Sentiment Analysis using Tsetlin Machine.'
 date: 2021
 venue: 'AAAI'
@@ -11,4 +11,4 @@ citation: 'Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodw
 
 [Download paper here](NA)
 
-Recommended citation: Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Rohan Kumar Yadav, Lei Jiao, Ole-Christoffer Granmo, and Morten Goodwin (2021). "Paper Title Number 3." <i>AAAI</i>. 1(3).
