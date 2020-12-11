@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Rohan Kumar Yadav, a PhD Research Fellow at Centre for Artificial Intelligence Research Lab, University of Agder, Norway. I am working on the project of Chatbot for Education using Tsetlin Machine and Deep Learning.  More specifically, I am interested in Interpretable model in Natural Language Processing (NLP). Hence, I am focused on a new Machine Learning model called Tsetlin Machine. Currently, my works are related to word sense disambiguation, sentiment analysis, context dependent language understanding etc. Simultaneously, I am also working on some recent trends of NLP like self-attentions and transformers.
+
+Before joining my PhD, I completed my MSc in Information and Communication from Chosun University, South Korea. I worked as Graduate Research Assistant at Wireless Mobile Communication System Lab on Indoor Positioning Techniques using Machine Learning. Moreover, I have completed my Bachelor’s degree from Sona College of Technology/Anna University in 2015.
 
 A data-driven personal website
 ======
